@@ -1,0 +1,19 @@
+{
+  "name": "historia01",
+  "version": "1.0.0",
+  "description": "historia reincenate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chato-create/historia01.git"
+  },
+  "author": "chinsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chato-create/historia01/issues"
+  },
+  "homepage": "https://github.com/Chato-create/historia01#readme"
+}
